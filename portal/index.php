@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Exibir informações de arquivo XML - StartRain</title>
+    <title>Exibir informações de arquivo XML</title>
   </head>
   <body>
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" enctype="multipart/form-data">
