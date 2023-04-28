@@ -1,3 +1,17 @@
+<?php
+# git add: Adiciona as mudanças feitas nos arquivos ao índice (staging area). 
+# Você pode adicionar arquivos específicos usando git add <nome_do_arquivo> ou adicionar todos os arquivos modificados com git add ..
+
+# git commit: Registra as mudanças adicionadas ao índice em um novo commit com uma mensagem descritiva. 
+# Para criar um commit, você pode usar git commit -m "Sua mensagem de commit".
+
+# git push: Envia os commits locais para o repositório remoto. Para enviar suas mudanças para o branch atual, basta executar git push. 
+# Se você deseja enviar as mudanças para um branch específico no repositório remoto, você pode usar git push origin <nome_do_branch>.
+
+# git pull: busca as atualizações do repositório remoto e mescla as mudanças no branch atual de sua cópia local. 
+# Assim, você garante que está trabalhando com a versão mais atualizada do código.
+
+?>
 <html>
   <head>
     <title>Exibir informações de arquivo XML - StartRain</title>
