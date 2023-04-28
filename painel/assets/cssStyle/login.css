@@ -1,0 +1,68 @@
+#buttonLogin{
+    background-image: linear-gradient(to right, rgba(248, 0, 0, 0.541), rgba(240, 15, 165, 0.87), rgba(134, 4, 173, 0.87));
+    width: 5%;
+}
+
+h1{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+ }
+
+ h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+ }
+
+ .spanNick{
+    color: rgb(163, 6, 163);
+ }
+
+ ul,li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+ }
+
+ .iconEmpresas{
+    margin-bottom: -10px;
+ }
+
+
+ @media screen and (max-width: 1000px) {
+	#textBv{
+		text-align: center;
+	}
+}
+
+div{
+   font-family: spaceSolid, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+p{
+   font-family: spaceSolid, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+label{
+   font-family: spaceSolid, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+input{
+   font-family: spaceSolid, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+table{
+   font-family: spaceSolid;
+   text-align: center;
+   font-size: 22px;
+}
+ 
+@media only screen and (max-width: 600px) {
+   table {
+     width: 100%;
+   }
+   table td {
+     display: block;
+   }
+   table th {
+      display: none;
+    }
+ }
